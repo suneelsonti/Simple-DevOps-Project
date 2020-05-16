@@ -1,0 +1,5 @@
+Below is the url that has been used to setup webhooks for servers on private networks that cannot be accessed publicly:
+
+https://webhookrelay.com/blog/2017/11/23/github-jenkins-guide/
+
+**The relay configure commands would be run on your jenkins sever cli***
